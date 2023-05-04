@@ -1,0 +1,6 @@
+@layer body {
+  body {
+    @apply bg-primary-000 text-primary-100;
+    @apply dark:bg-seocondary-000 dark:text-seocondary-100;
+  }
+}
